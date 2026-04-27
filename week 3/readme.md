@@ -5,12 +5,15 @@ This repository contains both theoretical understanding and hands-on practical i
 
 Repository Structure
 task/
+
 ├── theoretical/
+
 │ ├── 01-advanced-log-analysis.pdf
 │ ├── 02-threat-intelligence-integration.pdf
 │ └── 03-incident-escalation-workflows.pdf
-│
+
 ├── practical/
+
 │ ├── 01-advanced-log-analysis.pdf
 │ ├── 02-threat-intelligence-integration.pdf
 │ ├── 03-incident-escalation-practice.pdf
@@ -20,21 +23,6 @@ task/
 │
 └── README.md
 
-task/
-├── theoretical/
-│   ├── 01-advanced-log-analysis.pdf
-│   ├── 02-threat-intelligence-integration.pdf
-│   └── 03-incident-escalation-workflows.pdf
-│
-├── practical/
-│   ├── 01-advanced-log-analysis.pdf
-│   ├── 02-threat-intelligence-integration.pdf
-│   ├── 03-incident-escalation-practice.pdf
-│   ├── 04-alert-triage-with-threat-intelligence.pdf
-│   ├── 05-evidence-preservation-and-analysis.pdf
-│   └── 06-capstone-full-soc-workflow-simulation.pdf
-│
-└── README.md
 Key Learning Areas
 
 - **Advanced Log Analysis**
