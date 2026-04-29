@@ -22,6 +22,7 @@ Severity = High
 Status = In Progress
 Description (your summary visible)
 /screenshots/thehive_case_overview.png
+
 ✅ Screenshot 2: Tasks / Escalation
 
 Include:
