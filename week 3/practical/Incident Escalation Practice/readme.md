@@ -22,15 +22,7 @@ Severity = High
 Status = In Progress
 Description (your summary visible)
 /screenshots/thehive_case_overview.png
-✅ Screenshot 2: Observables Tab
-
-Include:
-
-IP: 192.168.1.200
-Type: IP
-Tag: attacker
-/screenshots/thehive_observables.png
-✅ Screenshot 3: Tasks / Escalation
+✅ Screenshot 2: Tasks / Escalation
 
 Include:
 
